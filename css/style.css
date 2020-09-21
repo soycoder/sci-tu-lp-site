@@ -9797,7 +9797,9 @@ html.lt-ie-10 .range > [class*="cell-lg-preffix-"] {
 
 .reveal-inline-block {
 	display: inline-block !important;
+
 }
+
 
 .reveal-inline {
 	display: inline !important;
@@ -13532,6 +13534,7 @@ fieldset[disabled] .tags-list .btn-primary {
 	content: "\f082";
 }
 
+
 .fa-camera-retro:before {
 	content: "\f083";
 }
@@ -13625,6 +13628,7 @@ fieldset[disabled] .tags-list .btn-primary {
 .fa-facebook:before {
 	content: "\f09a";
 }
+
 
 .fa-github:before {
 	content: "\f09b";
@@ -15144,6 +15148,7 @@ fieldset[disabled] .tags-list .btn-primary {
 .fa-facebook-official:before {
 	content: "\f230";
 }
+
 
 .fa-pinterest-p:before {
 	content: "\f231";
@@ -23462,6 +23467,15 @@ a.icon {
 	color: #fff;
 }
 
+a.icon.novi-icon.icon-xxs.linechat.icon-circle.icon-gray-light-filled:hover{
+	text-align: center;
+	background: #11ad0b;
+	color: #fff;
+}
+i {
+    text-align:center;
+}
+
 .page a.icon.fa-twitter:hover {
 	background: #2ca7e0;
 	color: #fff;
@@ -23469,6 +23483,11 @@ a.icon {
 
 .page a.icon.fa-google:hover {
 	background: #d95139;
+	color: #fff;
+}
+
+.page a.icon.fa-youtube:hover {
+	background: #ff0303;
 	color: #fff;
 }
 
