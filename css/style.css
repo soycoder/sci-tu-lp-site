@@ -1,9 +1,10 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 /** 1 Bootstrap Framework */
 /** 1.1  Normalize */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
@@ -1381,7 +1382,7 @@ html {
 }
 
 body {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-size: 14px;
 	line-height: 1.57143;
 	color: #888888;
@@ -1482,7 +1483,7 @@ hr {
 /** 1.4  Type */
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 400;
 	line-height: 1.1;
 	color: #2d2e2e;
@@ -6941,7 +6942,7 @@ button.close {
 	position: absolute;
 	z-index: 1020;
 	display: block;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-style: normal;
 	font-weight: normal;
 	letter-spacing: normal;
@@ -7076,7 +7077,7 @@ button.close {
 	display: none;
 	max-width: 276px;
 	padding: 1px;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-style: normal;
 	font-weight: normal;
 	letter-spacing: normal;
@@ -10172,11 +10173,11 @@ html.lt-ie-10 .range > [class*="cell-lg-preffix-"] {
 }
 
 .font-default {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .font-accent {
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 h1, .h1 {
@@ -10213,7 +10214,7 @@ h3, .h3 {
 	line-height: 1.5;
 	margin-top: 21px;
 	margin-bottom: 21px;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -10240,7 +10241,7 @@ h4, .h4 {
 h5, .h5 {
 	font-size: 24px;
 	line-height: 1.5;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -23533,7 +23534,7 @@ i {
 	position: relative;
 	text-align: center;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	letter-spacing: 0.04em;
 }
 
@@ -23551,7 +23552,7 @@ i {
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	color: #b80924;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .progress-bar-circle span:after {
@@ -23782,7 +23783,7 @@ button.list-group-item-danger.active:focus {
 	font-size: 14px;
 	padding: 6px 20px;
 	text-transform: capitalize;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	letter-spacing: 0;
 }
 
@@ -24342,7 +24343,7 @@ html .group-bottom {
 	font-weight: 700;
 	font-style: italic;
 	color: #2d2e2e;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .quote-classic-boxed q:before, .quote-classic-boxed q:after {
@@ -30209,7 +30210,7 @@ fieldset[disabled] .box-offer.active .btn-primary {
 }
 
 .navbar-inverse .quote-classic-boxed .quote-body:before, .context-dark .quote-classic-boxed .quote-body:before, .swiper-slide-caption .quote-classic-boxed .quote-body:before {
-	color: rgba(255, 255, 255, 0.2);
+	color: rgba(255, 255, 255, 0.8);
 }
 
 .navbar-inverse .text-black, .context-dark .text-black, .swiper-slide-caption .text-black {
@@ -30687,7 +30688,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	font-size: 16px;
 	font-weight: 700;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .rd-navbar {
@@ -31376,7 +31377,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 }
 
 .rd-navbar-default.rd-navbar-fixed .rd-navbar-megamenu h6, .rd-navbar-sidebar-toggle.rd-navbar-fixed .rd-navbar-megamenu h6, .rd-navbar-transparent.rd-navbar-fixed .rd-navbar-megamenu h6, .rd-navbar-center.rd-navbar-fixed .rd-navbar-megamenu h6, .rd-navbar-minimal.rd-navbar-fixed .rd-navbar-megamenu h6, .rd-navbar-humburger-menu.rd-navbar-fixed .rd-navbar-megamenu h6 {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .rd-navbar-default.rd-navbar-fixed .rd-navbar-megamenu h6 .small, .rd-navbar-sidebar-toggle.rd-navbar-fixed .rd-navbar-megamenu h6 .small, .rd-navbar-transparent.rd-navbar-fixed .rd-navbar-megamenu h6 .small, .rd-navbar-center.rd-navbar-fixed .rd-navbar-megamenu h6 .small, .rd-navbar-minimal.rd-navbar-fixed .rd-navbar-megamenu h6 .small, .rd-navbar-humburger-menu.rd-navbar-fixed .rd-navbar-megamenu h6 .small {
@@ -31455,7 +31456,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	left: 15px;
 	color: #2d2e2e;
 	font-size: 14px;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 400;
 }
 
@@ -31516,7 +31517,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	font-size: 14px;
 	font-weight: 700;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	position: relative;
 	display: inline-block;
 	vertical-align: middle;
@@ -31648,7 +31649,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	display: block;
 	padding-right: 25px;
 	font-size: 14px;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	color: #b3bfdc;
 	white-space: nowrap;
 }
@@ -32044,7 +32045,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 .rd-navbar-default.rd-navbar-static .rd-navbar-brand-title {
 	font-size: 18px;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -32053,7 +32054,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	font-style: italic;
 	font-weight: 300;
 	color: #888888;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 @media (min-width: 1800px) {
@@ -32191,7 +32192,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 
 .rd-navbar-default.rd-navbar-static .rd-navbar-cart a {
 	color: #888888;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 	font-size: 16px;
 }
@@ -32501,7 +32502,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-brand-title {
 	font-size: 20px;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-brand-slogan {
@@ -32509,7 +32510,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	font-style: italic;
 	font-weight: 300;
 	color: #fff;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-brand .wrap {
@@ -32562,7 +32563,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-cart a {
 	color: #fff;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -32722,7 +32723,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 .rd-navbar-center.rd-navbar-static .rd-navbar-top-panel .rd-navbar-brand-title {
 	font-size: 24px;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -32731,7 +32732,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	font-style: italic;
 	font-weight: 300;
 	color: #888888;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 .rd-navbar-center.rd-navbar-static .rd-navbar-panel .rd-navbar-toggle, .rd-navbar-center.rd-navbar-static .form-search-wrap {
@@ -32766,7 +32767,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 
 .rd-navbar-center.rd-navbar-static .rd-navbar-cart a {
 	color: #888888;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -32901,7 +32902,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 .rd-navbar-minimal.rd-navbar-static .rd-navbar-brand-title {
 	font-size: 18px;
 	line-height: 1.2;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -32909,7 +32910,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 	font-size: 12px;
 	font-style: italic;
 	color: #888888;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 }
 
 @media (min-width: 1800px) {
@@ -33023,7 +33024,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 
 .rd-navbar-minimal.rd-navbar-static .rd-navbar-cart a {
 	color: #888888;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -33237,7 +33238,7 @@ fieldset[disabled] .swiper-slide-caption .btn-primary {
 .search_title {
 	color: #b80924;
 	font-size: 18px;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	font-weight: 700;
 }
 
@@ -34020,7 +34021,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	display: block;
 	white-space: pre;
 	padding: 4px 12px;
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-size: 12px;
 }
 
@@ -40469,7 +40470,7 @@ html:not(.lt-ie10) .not-animated {
 	font-weight: 700;
 	color: #b80924;
 	text-align: left;
-	font-family: "Merriweather", "Times New Roman", Times, serif;
+	font-family: 'Roboto' , sans-serif;
 	text-overflow: ellipsis;
 	-webkit-transition: all .35s ease;
 	transition: all .35s ease;
@@ -40632,7 +40633,7 @@ html:not(.lt-ie10) .not-animated {
 		padding-top: 10px;
 		padding-bottom: 10px;
 		font-weight: 400;
-		font-family: "Open Sans", Helvetica, Arial, sans-serif;
+		font-family: 'Roboto' , sans-serif;
 		font-size: 20px;
 		position: relative;
 	}
@@ -41071,7 +41072,7 @@ html:not(.lt-ie10) .not-animated {
 	border: 1px solid #b1b1b1;
 	border-radius: 5px;
 	color: #b1b1b1;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-size: 14px;
 	outline: 0;
 }
@@ -41081,7 +41082,7 @@ html:not(.lt-ie10) .not-animated {
 	border: 1px solid #b1b1b1;
 	border-radius: 5px;
 	color: #b1b1b1;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-size: 14px;
 }
 
@@ -41959,7 +41960,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .slick-prev:before, .slick-next:before {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-size: 20px;
 	line-height: 1;
 	color: white;
@@ -42062,7 +42063,7 @@ html:not(.lt-ie10) .not-animated {
 	content: "•";
 	width: 20px;
 	height: 20px;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto' , sans-serif;
 	font-size: 6px;
 	line-height: 20px;
 	text-align: center;
