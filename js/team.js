@@ -1,5 +1,7 @@
 const listLecturer = document.querySelector("#listLecturer");
 const listStaff = document.querySelector("#listStaff");
+const loader1 = document.querySelector("#loader1");
+const loader2 = document.querySelector("#loader2");
 
 fetch(
   "https://script.google.com/a/dome.tu.ac.th/macros/s/AKfycbxCvizMF7l1K971hLCOWsGkcJ9ahlUs0R6npTtQ/exec?path=/lecturer&method=GET"
@@ -23,6 +25,7 @@ fetch(
     </div>`;
       listLecturer.innerHTML += node;
     });
+    loader1.classList.remove("active");
   });
 
 fetch(
@@ -47,4 +50,5 @@ fetch(
       </div>`;
       listStaff.innerHTML += node;
     });
+    loader2.classList.remove("active");
   });
