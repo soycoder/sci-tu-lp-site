@@ -1,0 +1,118 @@
+{
+  "limit": 25,
+  "offset": 0,
+  "order": false,
+  "nitems": 11,
+  "items": [
+    {
+      "#": 1,
+      "title": "ผู้ช่วยศาสตราจารย์ ดร.",
+      "id_name": "Worawan",
+      "name_th": "วรวรรณ ดีอัซ การ์บาโย",
+      "name_en": "Worawan Diaz Carballo (Marurngsith)",
+      "department_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "department_en": "Department of Computer Science",
+      "e-mail": ""
+    },
+    {
+      "#": "2",
+      "title": "อาจารย์",
+      "id_name": "Krittakom",
+      "name_th": "กฤตคม ศรีจิรานนท์",
+      "name_en": "Krittakom Srijiranon",
+      "department_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "department_en": "Department of Computer Science",
+      "e-mail": ""
+    },
+    {
+      "#": "3",
+      "title": "อาจารย์",
+      "id_name": "Pakorn",
+      "name_th": "ปกรณ์ แววสว่างวงศ์",
+      "name_en": "Pakorn Waewsawangwong",
+      "department_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "department_en": "Department of Computer Science",
+      "e-mail": ""
+    },
+    {
+      "#": "4",
+      "title": "อาจารย์ ดร.",
+      "id_name": "Aroonwan",
+      "name_th": "อรุณวรรณ สืบศรีวิชัย",
+      "name_en": "Aroonwan Suebsriwichai",
+      "department_th": "ภาควิชาคณิตศาสตร์และสถิติ",
+      "department_en": "Department of Mathematics and Statistics",
+      "e-mail": ""
+    },
+    {
+      "#": "5",
+      "title": "ผู้ช่วยศาสตราจารย์ ดร.",
+      "id_name": "Worrawate",
+      "name_th": "วรเวทย์ ลีลาอภิรดี",
+      "name_en": "Worrawate Leela-apiradee",
+      "department_th": "ภาควิชาคณิตศาสตร์และสถิติ",
+      "department_en": "Department of Mathematics and Statistics",
+      "e-mail": ""
+    },
+    {
+      "#": "6",
+      "title": "อาจารย์ ดร.",
+      "id_name": "Jumpotin",
+      "name_th": "จุมพฏ อินตระกูล",
+      "name_en": "Jumpotin Intrakul",
+      "department_th": "ภาควิชาคณิตศาสตร์และสถิติ",
+      "department_en": "Department of Mathematics and Statistics",
+      "e-mail": ""
+    },
+    {
+      "#": "7",
+      "title": "อาจารย์ ดร.",
+      "id_name": "Boonpithak",
+      "name_th": "บุญพิทักษ์ งามวัฒนากุล",
+      "name_en": "Boonpithak Ngamwatthanakul",
+      "department_th": "ภาควิชาฟิสิกส์",
+      "department_en": "Department of Physics",
+      "e-mail": ""
+    },
+    {
+      "#": "8",
+      "title": "อาจารย์ ดร.",
+      "id_name": "Kewalin",
+      "name_th": "เกวลิน อินทนนท์",
+      "name_en": "Kewalin Inthanon",
+      "department_th": "ภาควิชาเทคโนโลยีชีวภาพ",
+      "department_en": "Department of Biotechnology",
+      "e-mail": ""
+    },
+    {
+      "#": "9",
+      "title": "อาจารย์ ดร.",
+      "id_name": "Janejaree",
+      "name_th": "เจนจรีย์ อินอุทัย",
+      "name_en": "Janejaree Inuthai",
+      "department_th": "ภาควิชาเทคโนโลยีชีวภาพ",
+      "department_en": "Department of Biotechnology",
+      "e-mail": ""
+    },
+    {
+      "#": "10",
+      "title": "ผู้ช่วยศาสตราจารย์ ดร.",
+      "id_name": "Jirapast",
+      "name_th": "จีราพัสฐ์ สีแจ่ม",
+      "name_en": "Jirapast Sichaem",
+      "department_th": "ภาควิชาเคมี (เคมีอินทรีย์)",
+      "department_en": "Department of Chemistry (Organic Chemistry)",
+      "e-mail": ""
+    },
+    {
+      "#": "11",
+      "title": "อาจารย์ ดร.",
+      "id_name": "Preeyaporn",
+      "name_th": "ปรียาภรณ์ เรียนแพง",
+      "name_en": "Preeyaporn Reanpang",
+      "department_th": "ภาควิชาเคมี (เคมีวิเคราะห์)",
+      "department_en": "Department of Chemistry (Analytacal Chemistry)",
+      "e-mail": ""
+    }
+  ]
+}
