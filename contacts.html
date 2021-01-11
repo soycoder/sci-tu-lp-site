@@ -357,26 +357,31 @@
             <div class="shell">
                 <div class="range range-65 range-xs-center">
                     <div class="cell-md-8 text-md-left">
-                        <h2 class="text-bold">Get in Touch</h2>
+                        <h2 class="text-bold">ติดต่อพวกเรา</h2>
                         <hr class="divider bg-madison hr-md-left-0">
                         <div class="offset-top-30 offset-md-top-30">
-                            <p>You can ติดต่อพวกเรา any way that is convenient for you. We are available 24/7 via fax or
-                                email. You can also use a quick contact form below or visit us personally. We would be
-                                happy to answer your questions.</p>
+                            <p>คุณสามารถติดต่อสอบถามพวกเรา ได้ตามที่อยู่ แฟกซ์:
+                                <a class="text-dark" href="fax:+xxx.xxx.xxxxxxx">xxx.xxx.xxxxxxx
+                                </a>
+                                หรือทางอีเมลล์
+                                <a class="text-dark" href="mailto:lampang@sci.tu.ac.th">lampang@sci.tu.ac.th
+                                </a> นอกจากนี้ คุณสามารถส่งข้อมูลการติดต่อกลับ ไว้ด้านล่างนี้
+                                เรายินดีที่จะตอบคำถามคุณโดยเร็ว 😆
+                            </p>
                         </div>
                         <div class="offset-top-30">
                             <form class="rd-mailform text-left" data-form-output="form-output-global"
-                                data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                                data-form-type="contact" method="post" action="">
                                 <div class="range range-12">
                                     <div class="cell-sm-6">
                                         <div class="form-group"><label class="form-label form-label-outside"
-                                                for="contact-me-name">First name</label><input
+                                                for="contact-me-name">ชื่อ</label><input
                                                 class="form-control form-validation-inside" id="contact-me-name"
                                                 type="text" name="name" data-constraints="@Required"></div>
                                     </div>
                                     <div class="cell-sm-6">
                                         <div class="form-group"><label class="form-label form-label-outside"
-                                                for="contact-me-last-name">Last name</label><input
+                                                for="contact-me-last-name">สกุล</label><input
                                                 class="form-control form-validation-inside" id="contact-me-last-name"
                                                 type="text" name="last-name" data-constraints="@Required"></div>
                                     </div>
@@ -388,25 +393,48 @@
                                     </div>
                                     <div class="cell-sm-6">
                                         <div class="form-group"><label class="form-label form-label-outside"
-                                                for="contact-me-phone">Phone</label><input
+                                                for="contact-me-phone">เบอร์</label><input
                                                 class="form-control form-validation-inside" id="contact-me-phone"
                                                 type="text" name="phone" data-constraints="@Required @IsNumeric"></div>
                                     </div>
                                     <div class="cell-xs-12">
                                         <div class="form-group"><label class="form-label form-label-outside"
-                                                for="contact-me-message">Message</label><textarea
+                                                for="contact-me-message">ข้อความ</label><textarea
                                                 class="form-control form-validation-inside" id="contact-me-message"
                                                 name="message" data-constraints="@Required"
                                                 style="height: 220px"></textarea></div>
                                     </div>
                                 </div>
                                 <div class="text-center text-md-left offset-top-20"><button class="btn btn-primary"
-                                        type="submit">Send Message</button></div>
+                                        type="submit" id="btn_contact" onclick="sendMessage();" disabled>ส่งข้อความ</button></div>
                             </form>
                         </div>
                     </div>
                     <div class="cell-xs-10 cell-md-4 text-left">
                         <aside class="aside inset-md-left-30">
+                            <!-- FB page  -->
+                            <div class="aside-itims-2">
+                                <h6 class="text-bold">Facebook page</h6>
+                                <div>
+                                    <div class="hr bg-gray-light offset-top-10"></div>
+                                </div>
+                                <div class="fb-page" data-href="https://www.facebook.com/sciencetulp"
+                                    data-tabs="timeline" data-width="" data-height="" data-small-header="false"
+                                    data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                    <blockquote cite="https://www.facebook.com/sciencetulp"
+                                        class="fb-xfbml-parse-ignore"><a
+                                            href="https://www.facebook.com/sciencetulp">Science Thammasat - Lampang</a>
+                                    </blockquote>
+                                </div>
+                                <div>
+                                    <div style="background-color:transparent" class="hr bg-gray-light offset-top-10">
+                                    </div>
+                                    <div style="background-color:transparent" class="hr bg-gray-light offset-top-10">
+                                    </div>
+
+                                </div>
+                            </div>
+
                             <div class="aside-item-2">
                                 <h6 class="text-bold">โทร</h6>
                                 <div>
@@ -426,6 +454,7 @@
                                     </ul>
                                 </div>
                             </div>
+
                             <div class="aside-item-2">
                                 <h6 class="text-bold">E-mail</h6>
                                 <div>
@@ -518,6 +547,8 @@
                 </div>
             </div>
         </section>
+
+        <!-- Map -->
         <section class="section">
             <div class="google-map-container" data-center="9870 St Vincent Place, Glasgow, DC 45 Fr 45."
                 data-styles="[{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:&quot;-100&quot;}]},{&quot;featureType&quot;:&quot;administrative.province&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:65},{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:&quot;50&quot;},{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;road&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:&quot;-100&quot;}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;lightness&quot;:&quot;30&quot;}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;lightness&quot;:&quot;40&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#ffff00&quot;},{&quot;lightness&quot;:-25},{&quot;saturation&quot;:-97}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;labels&quot;,&quot;stylers&quot;:[{&quot;lightness&quot;:-25},{&quot;saturation&quot;:-100}]}]"
@@ -684,8 +715,16 @@
 
 
     </div>
+
+    <!-- Faceboack Page Plugin -->
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v9.0&appId=1112438732522408&autoLogAppEvents=1"
+        nonce="qh4fuTEl"></script>
+    <!-- Faceboack Page Plugin -->
+
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/message.js"></script>
 </body>
 
 </html>
