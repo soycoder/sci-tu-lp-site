@@ -2,7 +2,7 @@
   "items": [
     {
       "#": 1,
-      "title": "📢 เปิดรับสมัคร TCAS64",
+      "title": "เปิดรับสมัคร TCAS64",
       "auther": "admin",
       "id_name": "tcas64",
       "short_description": " วิทย์คอม เราเปิดรับสมัคร TCAS64",
@@ -32,10 +32,10 @@
     },
     {
       "#": 4,
-      "title": "📢 เปิดรับสมัคร TCAS64",
+      "title": "บลา ๆ บลา ๆ",
       "auther": "admin",
-      "id_name": "tcas64",
-      "short_description": " วิทย์คอม เราเปิดรับสมัคร TCAS64",
+      "id_name": "blah-blah",
+      "short_description": "บลา ๆ บลา ๆ บลา ๆ บลา ๆ",
       "description": "<div class=\"offset-top-30\"><img class=\"img-responsive\" src=\"images/blog/news-03-770x500.jpg\"\n                                width=\"770\" height=\"500\" alt=\"\">\n                            <div class=\"offset-top-30\">\n                                <p>Most community college students qualify for need-based aid, experts say. Many\n                                    community colleges offer promise programs, which offer tuition-free awards to\n                                    eligible students – mainly to students with Pell grant eligibility. For one\n                                    Massachusetts teen choosing between a two-year or four-year college, cost was the\n                                    deciding factor.</p>\n                            </div>\n                            <p>Estime had hoped to attend Smith College, but says the school costs too much, at more\n                                than $45,000 a year for tuition and fees. The liberal arts major enrolled in Holyoke\n                                Community College last fall and plans to transfer to nearby Smith or the University of\n                                Massachusetts–Amherst for her junior year, depending on the financial aid award. Estime,\n                                in the meantime, has managed to keep her debt under $2,000, paying for college with\n                                private scholarships, Pell grants and a small loan.</p>\n                        </div>\n                        <div class=\"offset-top-30\"><img class=\"img-responsive\" src=\"images/blog/news-07-770x500.jpg\"\n                                width=\"770\" height=\"500\" alt=\"\">\n                            <div class=\"offset-top-30\">\n                                <p>But those are just three ways to pay for community college. Here are some ways to pay\n                                    for community college other than working part or full time.</p>\n                            </div>\n                            <p>Pell grants: Pell grants function like vouchers for students to pay for higher\n                                education-related expenses, covering items such as books, transportation or tuition.\n                                Awards are based on financial need to students who have not earned a bachelor's degree.\n                                More than two-thirds of Pell grants go to families making less than $50,000, according\n                                to Columbia University's Community College Research Center at Teachers College. These\n                                awards are also contingent on the student's household size.</p>\n                        </div>",
       "datetime": 1610363908405,
       "gallery": ["1","2","3"]
