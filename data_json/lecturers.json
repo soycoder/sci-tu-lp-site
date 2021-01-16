@@ -10,7 +10,7 @@
       "id_name": "Worawan",
       "name_th": "วรวรรณ ดีอัซ การ์บาโย",
       "name_en": "Worawan Diaz Carballo (Marurngsith)",
-      "department_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "department_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "department_en": "Department of Computer Science",
       "e-mail": ""
     },
@@ -20,7 +20,7 @@
       "id_name": "Krittakom",
       "name_th": "กฤตคม ศรีจิรานนท์",
       "name_en": "Krittakom Srijiranon",
-      "department_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "department_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "department_en": "Department of Computer Science",
       "e-mail": ""
     },
@@ -30,7 +30,7 @@
       "id_name": "Pakorn",
       "name_th": "ปกรณ์ แววสว่างวงศ์",
       "name_en": "Pakorn Waewsawangwong",
-      "department_th": "ภาควิชาวิทยาการคอมพิวเตอร์",
+      "department_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "department_en": "Department of Computer Science",
       "e-mail": ""
     },
@@ -40,7 +40,7 @@
       "id_name": "Aroonwan",
       "name_th": "อรุณวรรณ สืบศรีวิชัย",
       "name_en": "Aroonwan Suebsriwichai",
-      "department_th": "ภาควิชาคณิตศาสตร์และสถิติ",
+      "department_th": "สาขาวิชาคณิตศาสตร์และสถิติ",
       "department_en": "Department of Mathematics and Statistics",
       "e-mail": ""
     },
@@ -50,7 +50,7 @@
       "id_name": "Worrawate",
       "name_th": "วรเวทย์ ลีลาอภิรดี",
       "name_en": "Worrawate Leela-apiradee",
-      "department_th": "ภาควิชาคณิตศาสตร์และสถิติ",
+      "department_th": "สาขาวิชาคณิตศาสตร์และสถิติ",
       "department_en": "Department of Mathematics and Statistics",
       "e-mail": ""
     },
@@ -60,7 +60,7 @@
       "id_name": "Jumpotin",
       "name_th": "จุมพฏ อินตระกูล",
       "name_en": "Jumpotin Intrakul",
-      "department_th": "ภาควิชาคณิตศาสตร์และสถิติ",
+      "department_th": "สาขาวิชาคณิตศาสตร์และสถิติ",
       "department_en": "Department of Mathematics and Statistics",
       "e-mail": ""
     },
@@ -70,7 +70,7 @@
       "id_name": "Boonpithak",
       "name_th": "บุญพิทักษ์ งามวัฒนากุล",
       "name_en": "Boonpithak Ngamwatthanakul",
-      "department_th": "ภาควิชาฟิสิกส์",
+      "department_th": "สาขาวิชาฟิสิกส์",
       "department_en": "Department of Physics",
       "e-mail": ""
     },
@@ -80,7 +80,7 @@
       "id_name": "Kewalin",
       "name_th": "เกวลิน อินทนนท์",
       "name_en": "Kewalin Inthanon",
-      "department_th": "ภาควิชาเทคโนโลยีชีวภาพ",
+      "department_th": "สาขาวิชาเทคโนโลยีชีวภาพ",
       "department_en": "Department of Biotechnology",
       "e-mail": ""
     },
@@ -90,7 +90,7 @@
       "id_name": "Janejaree",
       "name_th": "เจนจรีย์ อินอุทัย",
       "name_en": "Janejaree Inuthai",
-      "department_th": "ภาควิชาเทคโนโลยีชีวภาพ",
+      "department_th": "สาขาวิชาเทคโนโลยีชีวภาพ",
       "department_en": "Department of Biotechnology",
       "e-mail": ""
     },
@@ -100,7 +100,7 @@
       "id_name": "Jirapast",
       "name_th": "จีราพัสฐ์ สีแจ่ม",
       "name_en": "Jirapast Sichaem",
-      "department_th": "ภาควิชาเคมี (เคมีอินทรีย์)",
+      "department_th": "สาขาวิชาเคมี (เคมีอินทรีย์)",
       "department_en": "Department of Chemistry (Organic Chemistry)",
       "e-mail": ""
     },
@@ -110,7 +110,7 @@
       "id_name": "Preeyaporn",
       "name_th": "ปรียาภรณ์ เรียนแพง",
       "name_en": "Preeyaporn Reanpang",
-      "department_th": "ภาควิชาเคมี (เคมีวิเคราะห์)",
+      "department_th": "สาขาวิชาเคมี (เคมีวิเคราะห์)",
       "department_en": "Department of Chemistry (Analytacal Chemistry)",
       "e-mail": ""
     }

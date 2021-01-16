@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "#": 1,
+      "title": "เปิดรับสมัคร TCAS64",
+      "auther": "admin",
+      "id_name": "tcas64",
+      "description": "ตัวอย่าง - ข้อความ....... (ย่อหน้า) ข้อความ....... (รูป: pic1.jpg) ข้อความ.......",
+      "date": "DD/MM/YYYY",
+      "time_started": "hh:mm",
+      "time_ended": "hh:mm",
+      "location": "อาคารบุญชู.....",
+      "main_gallery": "main-pic.png",
+      "gallery": ["1.jpg", "2.jpg", "3.jpg"]
+    },
+    {
+      "#": 2,
+      "title": "ประกาศ COVID-19",
+      "auther": "admin",
+      "id_name": "covid19-14-3",
+      "description": "ตัวอย่าง - ข้อความ....... (ย่อหน้า) ข้อความ....... (รูป: pic1.jpg) ข้อความ.......",
+      "date": "DD/MM/YYYY",
+      "time_started": "hh:mm",
+      "time_ended": "hh:mm",
+      "location": "อาคารบุญชู.....",
+      "main_gallery": "main-pic.png",
+      "gallery": ["1.jpg", "2.jpg", "3.jpg"]
+    }
+  ]
+}
