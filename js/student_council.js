@@ -14,7 +14,7 @@ fetch("../data_json/student_council.json")
       let node = `
       <div class="cell-sm-6 cell-md-3">
         <img class="img-responsive reveal-inline-block img-rounded"
-        src="../images/users/student_council-${element.id_name}.jpg" width="270" height="270" alt="">
+        src="../images/users/Student_council-${element.id_name}.jpg" width="270" height="270" alt="">
         <div class="offset-top-20">
             <h6 class="text-bold text-primary">${element.name_th}</h6>
         </div>
@@ -40,7 +40,7 @@ fetch("../data_json/student_council.json")
       let node = `
         <div class="cell-sm-6 cell-md-3">
           <img class="img-responsive reveal-inline-block img-rounded"
-          src="../images/users/student_council-${element.id_name}.jpg" width="270" height="270" alt="">
+          src="../images/users/Student_council-${element.id_name}.jpg" width="270" height="270" alt="">
           <div class="offset-top-20">
               <h6 class="text-bold text-primary">${element.name_th}</h6>
           </div>

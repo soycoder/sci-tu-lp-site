@@ -3132,26 +3132,26 @@ fieldset[disabled] .btn-info.focus {
 
 .btn-warning {
 	color: #fff;
-	background-color: #f0ad4e;
+	background-color: #ec971f;
 	border-color: #eea236;
 }
 
 .btn-warning:focus, .btn-warning.focus {
-	color: #fff;
-	background-color: #ec971f;
+	color: #ec971f;
+	background-color: #fff;
 	border-color: #985f0d;
 }
 
 .btn-warning:hover {
-	color: #fff;
-	background-color: #ec971f;
-	border-color: #d58512;
+	color: #ec971f;
+	background-color: #fff;
+	border-color: #fff;
 }
 
 .btn-warning:active, .btn-warning.active,
 .open > .btn-warning.dropdown-toggle {
-	color: #fff;
-	background-color: #ec971f;
+	color: #ec971f;
+	background-color: #fff;
 	border-color: #d58512;
 }
 
@@ -7602,6 +7602,7 @@ button.close {
 		display: table-cell !important;
 	}
 }
+
 
 @media (min-width: 768px) and (max-width: 991px) {
 	.visible-sm-block {
