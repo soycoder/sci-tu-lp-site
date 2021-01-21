@@ -13,10 +13,12 @@ fetch("../data_json/lecturers.json")
 
       let node = `
       <div class="cell-sm-6 cell-md-3">
-        <img class="img-responsive reveal-inline-block img-rounded"
-        src="../images/users/Lecturer-${element.id_name}.jpg" width="270" height="270" alt="">
+        <a href="team-member-profile.html?l=${element.id_name}">
+          <img class="img-responsive reveal-inline-block img-rounded"
+          src="../images/users/Lecturer-${element.id_name}.jpg" width="200" height="200" alt="">
+        </a>
         <div class="offset-top-20">
-            <h6 class="text-bold text-primary">${element.name_th}</h6>
+            <h6 class="text-bold"><a class="text-info" href="team-member-profile.html?l=${element.id_name}">${element.title}${element.name_th}</a></h6>
         </div>
         <div class="offset-top-5">
             <p>${element.department_th}</p>
@@ -37,10 +39,12 @@ fetch("../data_json/staffs.json")
 
       let node = `
         <div class="cell-sm-6 cell-md-3">
-          <img class="img-responsive reveal-inline-block img-rounded"
-          src="../images/users/Staff-${element.id_name}.jpg" width="270" height="270" alt="">
+          <a href="team-member-profile.html?s=${element.id_name}">
+            <img class="img-responsive reveal-inline-block img-rounded"
+            src="../images/users/Staff-${element.id_name}.jpg" width="200" height="200" alt="">
+          </a>
           <div class="offset-top-20">
-              <h6 class="text-bold text-primary">${element.name_th}</h6>
+              <h6 class="text-bold"><a class="text-info" href="team-member-profile.html?s=${element.id_name}">${element.title}${element.name_th}</a></h6>
           </div>
           <div class="offset-top-5">
               <p>${element.job}</p>

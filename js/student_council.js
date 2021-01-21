@@ -16,7 +16,7 @@ fetch("../data_json/student_council.json")
         <img class="img-responsive reveal-inline-block img-rounded"
         src="../images/users/Student_council-${element.id_name}.jpg" width="270" height="270" alt="">
         <div class="offset-top-20">
-            <h6 class="text-bold text-primary">${element.name_th}</h6>
+            <h6 class="text-bold text-primary" style="color: black">${element.name_th}</h6>
         </div>
         <div class="offset-top-5">
             <p>${element.position}</p>
@@ -42,7 +42,7 @@ fetch("../data_json/student_council.json")
           <img class="img-responsive reveal-inline-block img-rounded"
           src="../images/users/Student_council-${element.id_name}.jpg" width="270" height="270" alt="">
           <div class="offset-top-20">
-              <h6 class="text-bold text-primary">${element.name_th}</h6>
+              <h6 class="text-bold text-primary" style="color: black">${element.name_th}</h6>
           </div>
           <div class="offset-top-5">
               <p>${element.position}</p>
