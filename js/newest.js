@@ -52,7 +52,7 @@ fetch("../data_json/news.json")
           <div class="col-xs-12 col-sm-6 col-md-4 isotope-item">
           <article class="post-news">
 
-            <a href="news-post.html?q=${element.id_name}"><img class="img-responsive" src="images/blog/news-04-370x240.jpg" alt=""
+            <a href="news-post.html?q=${element.id_name}"><img class="img-responsive" src="images/blog/news-${element.id_name}.jpg" alt=""
                 width="370" height="240" /></a>
             <div class="post-news-body">
               <h6>
