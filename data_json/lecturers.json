@@ -1,20 +1,72 @@
 {
-  "limit": 25,
-  "offset": 0,
-  "order": false,
-  "nitems": 11,
   "items": [
     {
       "#": 1,
       "title": "ผู้ช่วยศาสตราจารย์ ดร.",
       "id_name": "Worawan",
-      "name_th": "วรวรรณ ดีอัซ การ์บาโย",
+      "name_th": "วรวรรณ ดีอัซ การ์บาโย (มะเริงสิทธิ์)",
       "name_en": "Worawan Diaz Carballo (Marurngsith)",
       "department_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "department_en": "Department of Computer Science",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 2539,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "ศาสตร์คอมพิวเตอร์",
+          "institution": "มหาวิทยาลัยธรรมศาสตร์",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2542,
+          "level": "ปริญญาโท",
+          "degree": "MSc",
+          "branch": "Computer Science",
+          "institution": "University of Edinburgh",
+          "coutry": "สหราชอาณาจักร"
+        },
+        {
+          "year": 2549,
+          "level": "ปริญญาเอก",
+          "degree": "PhD",
+          "branch": "Informatics",
+          "institution": "University of Edinburgh",
+          "coutry": "สหราชอาณาจักร"
+        }
+      ],
+      "specialization": [
+        "การวิเคราะห์และปรับปรุงสมรรถนะในการประมวล (Performance Evaluation)",
+        "การประมวลผลสมรรถนะสูงและการประยุกต์ใช้ (High Performance Computing and Applications)",
+        "การโมเดลและสร้างแบบจำลอง (Modelling and Simulation)",
+        "ปัญญาประดิษฐ์และเทคนิคทางคอมพิวเตอร์เพื่องานประยุกต์ (AI and Computer Techniques for Applications)"
+      ],
+      "awards": [
+        {
+          "time": "(มีนาคม 2563 - ปัจจุบัน)",
+          "name": "สถานีอากาศพร้อมระบบจ่ายน้ำเพื่อการเกษตรอัจฉริยะ ติดตั้งใช้งานที่ศูนย์วิจัยพืชไร่ขอนแก่น จังหวัดขอนแก่น"
+        },
+        {
+          "time": "(ตุลาคม 2562 – ปัจจุบัน)",
+          "name": "รู้ภัย: ระบบเตือนภัยพิบัติหลายภาษาผ่านการเรียนรู้ของเครื่องจักรบนขอบเครือข่ายไร้สาย"
+        },
+        {
+          "time": "(2559 - ปัจจุบัน)",
+          "name": "การประดิษฐ์หุ่นยนต์แทนตัวทางไกลที่ควบคุมด้วยอุปกรณ์แอนดรอยด์ สำหรับการศึกษาทางไกล"
+        }
+      ],
+      "publications": [
+        "Suwancharoen, C. and <b>Marurngsith, W</b>. (2015). Compiler support for accelerating c++ 11 range-based loops on heterogeneous systems. International Journal of Computer and Electrical Engineering, 7 (2), 109.",
+        "<b>W. Marurngsith</b> and P. Waewsawangwong (2019). Applying Formal Logic Validation to Enhance Natural Language Understanding. The 8th International Conference on Software and Computer Applications. Penang, Malaysia, ICSCA 2019, ISBN: 978-1-4503-6573-4, ACM Digital Library.",
+        "Penbharkkul, P. and <b>Marurngsith, W</b>. (2018). Classification of OpenCL Kernels for accelerating Java Multi-agent Simulation. Linköping Electronic Conference Proceedings, 142, 805-811.",
+        "Padungpien, K. and <b>Marurngsith, W</b>. (2018). Creating Social-aware Evacuation Plans based on a GIS-enable Agent-based Simulation. Linköping Electronic Conference Proceedings, 142, 452-458.",
+        "Janard, K. and <b>Marurngsith, W</b>. (2016). Usability Evaluation of a Raspberry-Pi Telepresence Robot Controlled by Android Smartphones. Advances in Intelligent Systems and Computing book series (AISC), 457, 193-206.",
+        "Vijitpornkul, S. and <b>Marurngsith, W</b>. (2015). Simulating Crowd Movement in Agent-Based Model of Large-Scale Flood. Proceedings of the 2nd International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA).",
+        "Janard, K. and <b>Marurngsith, W</b>. (2015). Accelerating Real-Time Face Detection on A Raspberry Pi Telepresence Robot. In Proceedings of the Fifth International Conference on the Innovative Computing Technology (INTECH 2015)."
+      ],
+      "email": "papong@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0813444037",
+      "social": { "has":true,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "2",
@@ -24,9 +76,28 @@
       "name_en": "Krittakom Srijiranon",
       "department_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "department_en": "Department of Computer Science",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 0,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "",
+          "institution": "",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [],
+      "awards": [
+        {
+          "time": "(มีนาคม 2563 - ปัจจุบัน)",
+          "name": "สถานีอากาศพร้อมระบบจ่ายน้ำเพื่อการเกษตรอัจฉริยะ ติดตั้งใช้งานที่ศูนย์วิจัยพืชไร่ขอนแก่น จังหวัดขอนแก่น"
+        }
+      ],
+      "publications": [],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "3",
@@ -36,9 +107,28 @@
       "name_en": "Pakorn Waewsawangwong",
       "department_th": "สาขาวิชาวิทยาการคอมพิวเตอร์",
       "department_en": "Department of Computer Science",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 0,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "",
+          "institution": "",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [],
+      "awards": [
+        {
+          "time": "(มีนาคม 2563 - ปัจจุบัน)",
+          "name": "สถานีอากาศพร้อมระบบจ่ายน้ำเพื่อการเกษตรอัจฉริยะ ติดตั้งใช้งานที่ศูนย์วิจัยพืชไร่ขอนแก่น จังหวัดขอนแก่น"
+        }
+      ],
+      "publications": [],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "4",
@@ -48,9 +138,28 @@
       "name_en": "Aroonwan Suebsriwichai",
       "department_th": "สาขาวิชาคณิตศาสตร์และสถิติ",
       "department_en": "Department of Mathematics and Statistics",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 0,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "",
+          "institution": "",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [],
+      "awards": [
+        {
+          "time": "(มีนาคม 2563 - ปัจจุบัน)",
+          "name": "สถานีอากาศพร้อมระบบจ่ายน้ำเพื่อการเกษตรอัจฉริยะ ติดตั้งใช้งานที่ศูนย์วิจัยพืชไร่ขอนแก่น จังหวัดขอนแก่น"
+        }
+      ],
+      "publications": [],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "5",
@@ -60,9 +169,28 @@
       "name_en": "Worrawate Leela-apiradee",
       "department_th": "สาขาวิชาคณิตศาสตร์และสถิติ",
       "department_en": "Department of Mathematics and Statistics",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 0,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "",
+          "institution": "",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [],
+      "awards": [
+        {
+          "time": "(มีนาคม 2563 - ปัจจุบัน)",
+          "name": "สถานีอากาศพร้อมระบบจ่ายน้ำเพื่อการเกษตรอัจฉริยะ ติดตั้งใช้งานที่ศูนย์วิจัยพืชไร่ขอนแก่น จังหวัดขอนแก่น"
+        }
+      ],
+      "publications": [],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "6",
@@ -72,9 +200,61 @@
       "name_en": "Jumpotin Intrakul",
       "department_th": "สาขาวิชาคณิตศาสตร์และสถิติ",
       "department_en": "Department of Mathematics and Statistics",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 2552,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ. (เกียรตินิยมอันดับหนึ่ง)",
+          "branch": "คณิตศาสตร์",
+          "institution": "จุฬาลงกรณ์มหาวิทยาลัย",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2555,
+          "level": "ปริญญาโท",
+          "degree": "วท.ม.",
+          "branch": "คณิตศาสตร์",
+          "institution": "จุฬาลงกรณ์มหาวิทยาลัย",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2560,
+          "level": "ปริญญาเอก",
+          "degree": "วท.ด.",
+          "branch": "คณิตศาสตร์",
+          "institution": "จุฬาลงกรณ์มหาวิทยาลัย",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [
+        "ปัญหาคณิตศาสตร์ด้านเรขาคณิตคลาสสิกและเรขาคณิตเชิงสัจพจน์",
+        "ปัญหาคณิตศาสตร์ด้านการหดของบอลหนึ่งหน่วยในปริภูมิมิติอนันต์",
+        "การนำคณิตศาสตร์ไปประยุกต์ใช้กับปัญหาจริง"
+      ],
+      "awards": [],
+      "scholarships": [
+        {
+          "time": "(พ.ศ. 2548 - 2552)",
+          "name": "ทุนเรียนดีวิทยาศาสตร์แห่งประเทศไทย"
+        },
+        {
+          "time": "(พ.ศ. 2552 - 2554)",
+          "name": "ทุนอุดหนุนการศึกษาระดับบัณฑิตศึกษาจุฬาลงกรณ์มหาวิทยาลัย เพื่อเฉลิมฉลองวโรกาสที่พระบาทสมเด็จพระเจ้าอยู่หัวทรงเจริญพระชนมายุครบ 72 พรรษา"
+        },
+        {
+          "time": "(พ.ศ. 2555 - 2558)",
+          "name": "ทุนเรียนดีวิทยาศาสตร์แห่งประเทศไทย"
+        },
+        {
+          "time": "(พ.ศ. 2558 - 2560)",
+          "name": "ทุนมหาวิทยาลัยธรรมศาสตร์ (เงินบริจาคของคุณบุญชู ตรีทอง)"
+        }
+      ],
+      "publications": [" <b>Jumpot Intrakul</b>, Phichet Chaoha, and Wacharin Wichiramala, Lipschitz retractions onto sphere vs spherical cup in a Hilbert space, Topol. Methods Nonlinear Anal., vol.52, no.2, pp. 677-691, 2018."],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "7",
@@ -84,9 +264,57 @@
       "name_en": "Boonpithak Ngamwatthanakul",
       "department_th": "สาขาวิชาฟิสิกส์",
       "department_en": "Department of Physics",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 2540,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ. (เกียรตินิยมอันดับหนึ่ง)",
+          "branch": "ฟิสิกส์",
+          "institution": "มหาวิทยาลัยเชียงใหม่",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2550,
+          "level": "ปริญญาโท",
+          "degree": "วท.ม.",
+          "branch": "ฟิสิกส์",
+          "institution": "มหาวิทยาลัยเชียงใหม่",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2558,
+          "level": "ปริญญาเอก",
+          "degree": "วท.ด.",
+          "branch": "ฟิสิกส์",
+          "institution": "จุฬาลงกรณ์มหาวิทยาลัย",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": ["Gauged Supergravity", "String theory", "AdS/CFT correspondence"],
+      "awards": [
+        {
+          "time": "(พ.ศ. 2545)",
+          "name": "รางวัลเรียนดีเหรียญทอง (ประเภทเรียนดีตลอดหลักสูตร) ของคณะวิทยาศาสตร์ มหาวิทยาลัยเชียงใหม่ ประจำปีการศึกษา 2544"
+        },
+        {
+          "time": "(พ.ศ. 2545)",
+          "name": "ประกาศนียบัตรเกียรติยศ ผู้สอบได้คะแนนยอดเยี่ยมในหลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาฟิสิกส์ มหาวิทยาลัยเชียงใหม่ ของมูลนิธิศาสตราจารย์ ดร. แถบ นีละนิธิ"
+        }
+      ],
+      "scholarships": [
+        {
+        "time": "(พ.ศ. 2544)",
+        "name": "ทุนโครงการพัฒนาและส่งเสริมผู้มีความสามารถพิเศษทางวิทยาศาสตร์และเทคโนโลยี (พสวท.) ตั้งแต่ปีการศึกษาที่ 4 ระดับปริญญาตรีจนถึงปริญญาเอก"
+        }
+      ],
+      "publications": [
+        "3D N=6 gauged supergravity : admissible gauge groups, vacua and RG flows doi:10.1007/JHEP(2012)057",
+        "New N=5,6 3D gauged supergravities and holography doi:10.1007/JHEP01(2014)159"
+      ],
+      "email": "boonpithak@gmail.com",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0893653090",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "8",
@@ -96,9 +324,28 @@
       "name_en": "Kewalin Inthanon",
       "department_th": "สาขาวิชาเทคโนโลยีชีวภาพ",
       "department_en": "Department of Biotechnology",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 0,
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "",
+          "institution": "",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [],
+      "awards": [
+        {
+          "time": "(มีนาคม 2563 - ปัจจุบัน)",
+          "name": "สถานีอากาศพร้อมระบบจ่ายน้ำเพื่อการเกษตรอัจฉริยะ ติดตั้งใช้งานที่ศูนย์วิจัยพืชไร่ขอนแก่น จังหวัดขอนแก่น"
+        }
+      ],
+      "publications": [],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "9",
@@ -108,9 +355,51 @@
       "name_en": "Janejaree Inuthai",
       "department_th": "สาขาวิชาเทคโนโลยีชีวภาพ",
       "department_en": "Department of Biotechnology",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": "-",
+          "level": "ปริญญาตรี",
+          "degree": "วท.บ.",
+          "branch": "ชีววิทยา",
+          "institution": "มหาวิทยาลัยสงขลานครินทร์",
+          "coutry": "ไทย"
+        },
+        {
+          "year": "-",
+          "level": "ปริญญาตรี",
+          "degree": "วท.ม.",
+          "branch": "พฤกษศาสตร์",
+          "institution": "มหาวิทยาลัยสงขลานครินทร์",
+          "coutry": "ไทย"
+        },
+        {
+          "year": "-",
+          "level": "ปริญญาตรี",
+          "degree": "ปร.ด.",
+          "branch": "ชีววิทยา",
+          "institution": "มหาวิทยาลัยสงขลานครินทร์",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": ["พฤกษศาสตร์ (Botany)", "สัณฐานวิทยาของพืช (plant morphology)" ,"อนุกรมวิธานพืช (plant taxonomy)" ],
+      "awards": [],
+      "scholarships":[
+        {
+          "time":"",
+          "name":"ทุนทุนสนับสนุนการวิจัย จากงบประมาณรายจ่ายจากรายได้ มหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง ประจำปีงบประมาณ 2562 (งบประมาณ 39,000 บาท)"
+        }
+      ],
+      "publications": [
+        "<b>Inuthai, J.</b> and Sridith, K. 2010. The vegetation structure on the granitic inselberg in Songkhla province, Peninsular Thailand. Thai Forest Bulletin (Botany) 38: 74–89.",
+        "<b>Inuthai, J.</b>, Zhu, R.-L. and Chantanaorr., S. 2014. Drepanolejeunea actinogyna (Lejeuneaceae), a new species from southern Thailand. The Bryologist 117(2): 165–169.",
+        "<b>Inuthai, J.</b>, Zhu, R.-L. and Chantanaorr., S. 2015. Taxonomic notes on Drepanolejeunea pleiodictya (Marchantiophyta, Lejeuneaceae), a little-known Asiatic species. Polish Botanical Journal 60(1): 13–17.",
+        "<b>Inuthai, J.</b>, Sangrattanaprasert, J., Suwanmala, O. and Chantanaorrapint, S. 2019. Mohamedia brunnea (Lejeuneaceae, Marchantiophyta), a genus and species new to Thailand. Hattoria, 10, 61–67."
+
+      ],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "10",
@@ -120,9 +409,51 @@
       "name_en": "Jirapast Sichaem",
       "department_th": "สาขาวิชาเคมี (เคมีอินทรีย์)",
       "department_en": "Department of Chemistry (Organic Chemistry)",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 2551,
+          "level": "ปริญญาตรี",
+          "degree": "(เกียรตินิยมอันดับ หนึ่ง)",
+          "branch": "เคมี",
+          "institution": "มหาวิทยาลัยนเรศวร",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2553,
+          "level": "ปริญญาโท",
+          "degree": "",
+          "branch": "เคมี",
+          "institution": "จุฬาลงกรณ์มหาวิทยาลัย",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2556,
+          "level": "ปริญญาเอก",
+          "degree": "",
+          "branch": "เคมี",
+          "institution": "จุฬาลงกรณ์มหาวิทยาลัย",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": [],
+      "awards": [],
+      "scholarships": [],
+      "publications": [
+        "Duong TH, Nguyen HH, Le TT, Tran TN, <b>Sichaem J</b>, Nguyen TT, Nguyen TP, Mai DT, Nguyen HH, Le HD. Subnudatones A and B, new trans-decalin polyketides from the cultured lichen mycobionts of Pseudopyrenula subnudata. Fitoterapia. 2020 Feb 13:104512: Impact Factor = 2.431",
+        "Lien Do, T.M., Duong, T.H., Nguyen, V.K., Phuwapraisirisan, P., Doungwichitrkul, T., Niamnont, N., Jarupinthusophon, S. and <b>Sichaem, J</b>. (2020). Schomburgkixanthone, a novel bixanthone from the twigs of Garcinia schomburgkiana. Natural Product Research, Article in Press. Doi: https://doi.org/10.1080/14786419.2020.1716351: Impact Factor:  1.999",
+        "Phan HV, Devi AP, Le HD, Nguyen TT, Nguyen HH, Le TT, Nguyen TH, <b>Sichaem J</b>, Duong TH. (2020). Dilatatone, a new chlorinated compound from Parmotrema dilatatum. Natural Product Research. Article in Press. Doi: https://doi.org/10.1080/14786419. 2020.1716348: Impact Factor:  1.999",
+        "Nguyen, V.K., <b>Sichaem, J</b>., Nguyen, H.H., Nguyen, X.H., Huynh, T.T.L., Nguyen, T.P., Niamnont, N., Mac, D.H., Pham, D.D., Chavasiri, W. and Nguyen, K.P.P. (2019). Synthesis and cytotoxic evaluation of usnic acid benzylidene derivatives as potential anticancer agents. Natural Product Research, Article in Press. Doi: 10.1080/14786419.2019.1639176: Impact Factor:  1.999",
+        "Duong, T.H., Nguyen, V.K., Nguyen-Pham, K.T., <b>Sichaem, J</b>., and Nguyen, H.D. (2020). Lindermyrrhin, a novel 3, 4-dihydroisocoumarin from Lindera myrrha roots. Natural Product Research, Article in Press. Doi: https://doi.org/10.1080/14786419.2019.1641813: Impact Factor:  1.999",
+        "Tran, T.N.M., Bernadat, G., Mai, D.T., Nguyen, V.K., <b>Sichaem, J</b>., Nguyen, T.P., Tran, C.L., Do, P.V., Tran, N.M.A., Nguyen, H.H. and Beniddir, M.A. (2019). Nervisides I–J: unconventional side-chain-bearing cycloartane glycosides from Nervilia concolor. Molecules, 24, 2599: Impact Factor:  3.060",
+        "Tran, T.N., <b>Sichaem, J</b>., Nguyen, V.K., Chavasiri, W., Niamnont, N., Jongaramruong, J. and Duong, T.H. (2019). A new ent-atisane diterpenoid from the aerial parts of Euphorbia antiquorum L. Natural Product Research, Article in Press. Doi: 10.1080/14786419.2019.1629 917: Impact Factor:  1.999",
+        "<b>Sichaem, J</b>., Nguyen, H.H. and Duong, T.H. (2019). Hopane-6α,16α, 22-triol: A new hopane triterpenoid from the lichen Parmotrema sancti-angelii. Natural Product Communications, 14(6), 1: Impact Factor:  0.554",
+        "Tip-pyang, S., Aree, T. and <b>Sichaem, J</b>. (2019). Pterocarpans and isoflavones from the Heartwood of Pterocarpus indicus. Chemistry of Natural Compounds, 55, 121-123: Impact Factor:  1.029",
+        "<b>Sichaem, J</b>. Lugsanangarm, K. Tip-pyang, S., and Jutakanoke R. (2019). Highly potent α-glucosidase inhibitors from Pterocarpus indicus and molecular docking studies. Songklanakarin Journal of Science and Technology, Article in Press: Impact Factor:  0.47"
+      ],
+      "email": "jirapast.s@gmail.com",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0932978366",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     },
     {
       "#": "11",
@@ -132,9 +463,56 @@
       "name_en": "Preeyaporn Reanpang",
       "department_th": "สาขาวิชาเคมี (เคมีวิเคราะห์)",
       "department_en": "Department of Chemistry (Analytacal Chemistry)",
-      "email": "test@staff.tu.ac.th",
-      "phone":"0891234657",
-      "bio":"<_____>"
+      "education": [
+        {
+          "year": 2551,
+          "level": "ปริญญาตรี",
+          "degree": "วิทยาศาสตรบัณฑิต",
+          "branch": "เคมี",
+          "institution": "มหาวิทยาลัยเชียงใหม่",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2553,
+          "level": "ปริญญาตรี",
+          "degree": "วิทยาศาสตรมหาบัณฑิต ",
+          "branch": "เคมี",
+          "institution": "มหาวิทยาลัยเชียงใหม่",
+          "coutry": "ไทย"
+        },
+        {
+          "year": 2558,
+          "level": "ปริญญาตรี",
+          "degree": "ปรัชญาดุษฎีบัณฑิต",
+          "branch": "เคมี",
+          "institution": "มหาวิทยาลัยเชียงใหม่",
+          "coutry": "ไทย"
+        }
+      ],
+      "specialization": ["เคมีวิเคราะห์", "เคมีไฟฟ้าทางด้านสิ่งแวดล้อม", "การเกษตร", "การแพทย์"],
+      "awards": [],
+      "scholarships":[
+        {
+          "time": "(พ.ศ. 2548 - 2558)",
+          "name": "ทุนวิจัยกองทุนวิจัยคณะวิทยาศาสตร์และเทคโนโลยี ปีงบประมาณ 2563 หัวข้อ การตรวจวัดความเข้มสีอย่างง่ายสำหรับการคัดกรองสารตกค้างยาฆ่าแมลงในผลิตผลทางการเกษตร"
+        },
+        {
+          "time": "(พ.ศ. 2563)",
+          "name": "ทุนวิจัยกองทุนวิจัยคณะวิทยาศาสตร์และเทคโนโลยี ปีงบประมาณ 2563 หัวข้อ การตรวจวัดความเข้มสีอย่างง่ายสำหรับการคัดกรองสารตกค้างยาฆ่าแมลงในผลิตผลทางการเกษตร"
+        }
+      ],
+      "publications": [
+        "S. Khonyoung, <b>P. Reanpang</b>, P. Kongtawelert, S. Pencharee, J. Jakmunee, K. Grudpan, S. K. Hartwell, “Sequential injection system with modified glass capillary for automation in immunoassay of chondroitin sulfate,” Analytical Letters, 44, 2011, 327-339.",
+        "<b>P. Reanpang</b>, S. Themsirimongkon, S. Saipanya, O. Chailapakul, J. Jakmunee, “Cost-effective flow injection amperometric system with metal nanoparticle loaded carbon nanotube modified screen printed carbon electrode for sensitive determination of hydrogen peroxide,” Talanta, 144, 2015, 868–874.",
+        "J. Upan, <b>P. Reanpang</b>, O. Chailapakul, J. Jakmunee, “Flow injection amperometric sensor with a carbon nanotube modified screen printed electrode for determination of hydroquinone,” Talanta, 146, 2016, 766-771. 110 ",
+        "Y. Chuminjak, S. Daothong, <b>P. Reanpang</b>, J.P. Mensing, Ditsayut, J. Jakmunee, A. Wisitsoraat, A. Tuantranont, P. Singjai, “Electrochemical energy-storage performances of nickel oxide film prepared by a sparking method,” RSC Advances, 5, 2015, 67795-67802. ",
+        "C. Thunkhamrak, <b>P. Reanpang</b>, K. Ounnunkad, J. Jakmunee, “Injection system with amperometric immunosensor for sensitivedetermination of human immunoglobulin G,” Talanta, 171, 2017, 53-60."
+        
+      ],
+      "email": "test@tu.ac.th",
+      "work_phone": "054-237999 ต่อ 5626",
+      "phone": "0888888888",
+      "social": { "has":false,"facebook": "", "twiter": "", "instargram": "" }
     }
   ]
 }
